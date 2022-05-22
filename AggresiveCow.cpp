@@ -4,6 +4,7 @@ using namespace std;
 const int N = 1e5;
 int n, c;
 int stall[N];
+//function 
 bool check(int x)
 {
     int cow=1,pos=stall[0];
